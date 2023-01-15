@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "dotenv": "^16.0.3"
+  },
+  "name": "slack-kintai-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolflove090/slack-kintai-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolflove090/slack-kintai-app/issues"
+  },
+  "homepage": "https://github.com/wolflove090/slack-kintai-app#readme",
+  "description": ""
+}
