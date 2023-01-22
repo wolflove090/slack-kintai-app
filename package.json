@@ -3,7 +3,8 @@
     "@google-cloud/local-auth": "^2.1.0",
     "@slack/bolt": "^3.12.2",
     "dotenv": "^16.0.3",
-    "googleapis": "^105.0.0"
+    "googleapis": "^105.0.0",
+    "node-google-calendar": "^1.1.1"
   },
   "name": "slack-kintai-app",
   "version": "1.0.0",
